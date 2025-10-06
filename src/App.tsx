@@ -1,7 +1,6 @@
 import "./App.css";
 import { useTheme } from "./contexts/ThemeContext";
 import { Sun, Moon } from "lucide-react";
-import { Section } from "./components/ui/section";
 import { SmoothScrollContainer } from "./components/layout/SmoothScrollContainer";
 import { motion } from "framer-motion";
 import { HeroSection } from "./sections/HeroSection";

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Mail, Phone, MapPin, Linkedin, Github } from "lucide-react";
+import { Mail, Phone, Linkedin, Github } from "lucide-react";
 import { Section } from "../components/ui/section";
 import { Card } from "../components/ui/card";
 
