@@ -58,11 +58,11 @@ export function HeroSection() {
             words={[
               "MongoDB",
               "Express JS",
-              "React",
+              "React JS",
               "Node.js",
               "AI Integrations",
             ]}
-            delay={1000}
+            delay={2000}
           />
         </motion.div>
 
