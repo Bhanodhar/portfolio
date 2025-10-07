@@ -62,7 +62,7 @@ export function HeroSection() {
               "Node.js",
               "AI Integrations",
             ]}
-            delay={2000}
+            delay={5000}
           />
         </motion.div>
 
