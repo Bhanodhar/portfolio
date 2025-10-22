@@ -4,7 +4,7 @@ import { TimelineItem } from "../components/ui/timeline-item";
 
 const experiences = [
   {
-    year: "Mar 2025 - Present",
+    year: "Mar 2025 - Aug 2025",
     company: "Outlier AI",
     title: "Freelance AI Trainer",
     description:
