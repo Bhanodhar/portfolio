@@ -44,22 +44,39 @@ const projects: Project[] = [
   },
   {
     id: "3",
-    title: "Portfolio Website",
+    title: "College Appointment System",
     description:
-      "Designed and developed a modern portfolio website using React and Vite. Features include dark mode, smooth animations with Framer Motion, responsive design, and interactive components. Implemented modern design patterns and optimized for performance and accessibility.",
+      "Built a full-stack appointment booking system for students and professors to schedule and manage consultations with secure login and role-based access.Ensured smooth user experience and conflict-free scheduling through protected routes, token-based authentication, and tested backend workflows.",
     techStack: [
       "React",
-      "TypeScript",
+      "Express.js",
+      "MongoDB",
+      "JWT",  
       "Tailwind CSS",
-      "Framer Motion",
-      "Vite",
-      "Lucide Icons",
     ],
-    imageUrl: "/projects/portfolio.png",
-    liveUrl: "#",
-    githubUrl: "https://github.com/Bhanodhar",
+    imageUrl: "/projects/cas.png",
+    liveUrl: "https://college-appointment-system-full-sta.vercel.app/",
+    githubUrl: "https://github.com/Bhanodhar/COLLEGE-APPOINTMENT-SYSTEM-FULL-STACK",
     featured: true,
   },
+  //  {
+  //   id: "4",
+  //   title: "Portfolio Website",
+  //   description:
+  //     "Designed and developed a modern portfolio website using React and Vite. Features include dark mode, smooth animations with Framer Motion, responsive design, and interactive components. Implemented modern design patterns and optimized for performance and accessibility.",
+  //   techStack: [
+  //     "React",
+  //     "TypeScript",
+  //     "Tailwind CSS",
+  //     "Framer Motion",
+  //     "Vite",
+  //     "Lucide Icons",
+  //   ],
+  //   imageUrl: "/projects/portfolio.png",
+  //   liveUrl: "#",
+  //   githubUrl: "https://github.com/Bhanodhar",
+  //   featured: true,
+  // },
 ];
 
 const containerVariants = {
