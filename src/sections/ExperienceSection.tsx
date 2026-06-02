@@ -4,9 +4,9 @@ import { TimelineItem } from "../components/ui/timeline-item";
 
 const experiences = [
   {
-    year: "Mar 2025 - Aug 2025",
+    year: "Mar 2025 - Oct 2025",
     company: "Outlier AI",
-    title: "Freelance AI Trainer",
+    title: "Freelance AI Engineer",
     description:
       "Improved AI model accuracy by correcting logical and factual errors in Python and Math responses. Enhanced output clarity and reliability through expert analysis and a curated dataset of 200+ complex reasoning problems.",
   },
