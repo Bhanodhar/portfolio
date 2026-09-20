@@ -97,7 +97,7 @@ export function AboutSection() {
             <div className="relative w-48 h-48 md:w-64 md:h-64 mx-auto">
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-yellow-500 to-yellow-600 animate-spin-slow" />
               <img
-                src="/profile3.jpg"
+                src="/profile4.jpg"
                 alt="Bhanu"
                 className="absolute inset-1 w-[calc(100%-8px)] h-[calc(100%-8px)] object-cover rounded-full"
               />
