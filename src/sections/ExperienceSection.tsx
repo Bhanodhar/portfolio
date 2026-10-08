@@ -11,7 +11,7 @@ const experiences = [
       "Improved AI model accuracy by correcting logical and factual errors in Python and Math responses. Enhanced output clarity and reliability through expert analysis and a curated dataset of 200+ complex reasoning problems.",
   },
   {
-    year: "Apr 2025 - Jun 2025",
+    year: "May 20254- July 2024",
     company: "Data Valley",
     title: "Software Developer Intern",
     description:
